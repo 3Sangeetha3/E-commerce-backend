@@ -1,0 +1,704 @@
+[{
+  "_id": {
+    "$oid": "6625844b1ede785843be0914"
+  },
+  "id": 1,
+  "name": "Latin Quarters Brown Regular Fit Jacket",
+  "image": "https://e1.b68.dev/images/product_1713734730938.jpg",
+  "category": "women",
+  "new_price": 49,
+  "old_price": 99,
+  "available": true,
+  "date": {
+    "$date": "2024-04-21T21:25:31.040Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662584541ede785843be0917"
+  },
+  "id": 2,
+  "name": "Latin Quarters Brown Regular Fit Jacket",
+  "image": "https://e1.b68.dev/images/product_1713734740789.jpg",
+  "category": "women",
+  "new_price": 49,
+  "old_price": 99,
+  "available": true,
+  "date": {
+    "$date": "2024-04-21T21:25:40.942Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662584601ede785843be091a"
+  },
+  "id": 3,
+  "name": "Latin Quarters Brown Regular Fit Jacket",
+  "image": "https://e1.b68.dev/images/product_1713734752150.jpg",
+  "category": "women",
+  "new_price": 49,
+  "old_price": 99,
+  "available": true,
+  "date": {
+    "$date": "2024-04-21T21:25:52.255Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662584691ede785843be091d"
+  },
+  "id": 4,
+  "name": "Latin Quarters Brown Regular Fit Jacket",
+  "image": "https://e1.b68.dev/images/product_1713734760732.jpg",
+  "category": "women",
+  "new_price": 49,
+  "old_price": 99,
+  "available": true,
+  "date": {
+    "$date": "2024-04-21T21:26:01.017Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662584721ede785843be0920"
+  },
+  "id": 5,
+  "name": "Latin Quarters Brown Regular Fit Jacket",
+  "image": "https://e1.b68.dev/images/product_1713734770345.jpg",
+  "category": "women",
+  "new_price": 49,
+  "old_price": 99,
+  "available": true,
+  "date": {
+    "$date": "2024-04-21T21:26:10.429Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6625847c1ede785843be0923"
+  },
+  "id": 6,
+  "name": "Latin Quarters Brown Regular Fit Jacket",
+  "image": "https://e1.b68.dev/images/product_1713734780192.jpg",
+  "category": "women",
+  "new_price": 49,
+  "old_price": 99,
+  "available": true,
+  "date": {
+    "$date": "2024-04-21T21:26:20.295Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662584841ede785843be0926"
+  },
+  "id": 7,
+  "name": "Latin Quarters Brown Regular Fit Jacket",
+  "image": "https://e1.b68.dev/images/product_1713734788788.jpg",
+  "category": "women",
+  "new_price": 49,
+  "old_price": 99,
+  "available": true,
+  "date": {
+    "$date": "2024-04-21T21:26:28.873Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6625848d1ede785843be0929"
+  },
+  "id": 8,
+  "name": "Latin Quarters Brown Regular Fit Jacket",
+  "image": "https://e1.b68.dev/images/product_1713734797471.jpg",
+  "category": "women",
+  "new_price": 49,
+  "old_price": 99,
+  "available": true,
+  "date": {
+    "$date": "2024-04-21T21:26:37.559Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662584951ede785843be092c"
+  },
+  "id": 9,
+  "name": "Latin Quarters Brown Regular Fit Jacket",
+  "image": "https://e1.b68.dev/images/product_1713734805434.jpg",
+  "category": "women",
+  "new_price": 49,
+  "old_price": 99,
+  "available": true,
+  "date": {
+    "$date": "2024-04-21T21:26:45.524Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6625849d1ede785843be092f"
+  },
+  "id": 10,
+  "name": "Latin Quarters Brown Regular Fit Jacket",
+  "image": "https://e1.b68.dev/images/product_1713734813284.jpg",
+  "category": "women",
+  "new_price": 49,
+  "old_price": 99,
+  "available": true,
+  "date": {
+    "$date": "2024-04-21T21:26:53.372Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662584a41ede785843be0932"
+  },
+  "id": 11,
+  "name": "Latin Quarters Brown Regular Fit Jacket",
+  "image": "https://e1.b68.dev/images/product_1713734820156.jpg",
+  "category": "women",
+  "new_price": 49,
+  "old_price": 99,
+  "available": true,
+  "date": {
+    "$date": "2024-04-21T21:27:00.242Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662584ad1ede785843be0935"
+  },
+  "id": 12,
+  "name": "Latin Quarters Brown Regular Fit Jacket",
+  "image": "https://e1.b68.dev/images/product_1713734828947.jpg",
+  "category": "women",
+  "new_price": 49,
+  "old_price": 99,
+  "available": true,
+  "date": {
+    "$date": "2024-04-21T21:27:09.153Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662584b41ede785843be0938"
+  },
+  "id": 13,
+  "name": "Latin Quarters Brown Regular Fit Jacket",
+  "image": "https://e1.b68.dev/images/product_1713734836081.jpg",
+  "category": "women",
+  "new_price": 49,
+  "old_price": 99,
+  "available": true,
+  "date": {
+    "$date": "2024-04-21T21:27:16.175Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662584bb1ede785843be093b"
+  },
+  "id": 14,
+  "name": "Latin Quarters Brown Regular Fit Jacket",
+  "image": "https://e1.b68.dev/images/product_1713734843454.jpg",
+  "category": "women",
+  "new_price": 49,
+  "old_price": 99,
+  "available": true,
+  "date": {
+    "$date": "2024-04-21T21:27:23.552Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662584c31ede785843be093e"
+  },
+  "id": 15,
+  "name": "Latin Quarters Brown Regular Fit Jacket",
+  "image": "https://e1.b68.dev/images/product_1713734851210.jpg",
+  "category": "women",
+  "new_price": 49,
+  "old_price": 99,
+  "available": true,
+  "date": {
+    "$date": "2024-04-21T21:27:31.308Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6625851d1ede785843be0944"
+  },
+  "id": 16,
+  "name": "Zip-Front Biker Jacket",
+  "image": "https://e1.b68.dev/images/product_1713734941336.jpg",
+  "category": "men",
+  "new_price": 39,
+  "old_price": 89,
+  "available": true,
+  "date": {
+    "$date": "2024-04-21T21:29:01.432Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662585251ede785843be0947"
+  },
+  "id": 17,
+  "name": "Zip-Front Biker Jacket",
+  "image": "https://e1.b68.dev/images/product_1713734949753.jpg",
+  "category": "men",
+  "new_price": 39,
+  "old_price": 89,
+  "available": true,
+  "date": {
+    "$date": "2024-04-21T21:29:09.844Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6625852e1ede785843be094a"
+  },
+  "id": 18,
+  "name": "Zip-Front Biker Jacket",
+  "image": "https://e1.b68.dev/images/product_1713734958135.jpg",
+  "category": "men",
+  "new_price": 39,
+  "old_price": 89,
+  "available": true,
+  "date": {
+    "$date": "2024-04-21T21:29:18.221Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662585361ede785843be094d"
+  },
+  "id": 19,
+  "name": "Zip-Front Biker Jacket",
+  "image": "https://e1.b68.dev/images/product_1713734966745.jpg",
+  "category": "men",
+  "new_price": 39,
+  "old_price": 89,
+  "available": true,
+  "date": {
+    "$date": "2024-04-21T21:29:26.827Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6625853e1ede785843be0950"
+  },
+  "id": 20,
+  "name": "Zip-Front Biker Jacket",
+  "image": "https://e1.b68.dev/images/product_1713734973704.jpg",
+  "category": "men",
+  "new_price": 39,
+  "old_price": 89,
+  "available": true,
+  "date": {
+    "$date": "2024-04-21T21:29:34.052Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662585491ede785843be0953"
+  },
+  "id": 21,
+  "name": "Zip-Front Biker Jacket",
+  "image": "https://e1.b68.dev/images/product_1713734985493.jpg",
+  "category": "men",
+  "new_price": 39,
+  "old_price": 89,
+  "available": true,
+  "date": {
+    "$date": "2024-04-21T21:29:45.574Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662585521ede785843be0956"
+  },
+  "id": 22,
+  "name": "Zip-Front Biker Jacket",
+  "image": "https://e1.b68.dev/images/product_1713734994471.jpg",
+  "category": "men",
+  "new_price": 39,
+  "old_price": 89,
+  "available": true,
+  "date": {
+    "$date": "2024-04-21T21:29:54.553Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6625855b1ede785843be0959"
+  },
+  "id": 23,
+  "name": "Zip-Front Biker Jacket",
+  "image": "https://e1.b68.dev/images/product_1713735003050.jpg",
+  "category": "men",
+  "new_price": 39,
+  "old_price": 89,
+  "available": true,
+  "date": {
+    "$date": "2024-04-21T21:30:03.165Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662585631ede785843be095c"
+  },
+  "id": 24,
+  "name": "Zip-Front Biker Jacket",
+  "image": "https://e1.b68.dev/images/product_1713735011064.jpg",
+  "category": "men",
+  "new_price": 39,
+  "old_price": 89,
+  "available": true,
+  "date": {
+    "$date": "2024-04-21T21:30:11.300Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662585691ede785843be095f"
+  },
+  "id": 25,
+  "name": "Zip-Front Biker Jacket",
+  "image": "https://e1.b68.dev/images/product_1713735017710.jpg",
+  "category": "men",
+  "new_price": 39,
+  "old_price": 89,
+  "available": true,
+  "date": {
+    "$date": "2024-04-21T21:30:17.809Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662585711ede785843be0962"
+  },
+  "id": 26,
+  "name": "Zip-Front Biker Jacket",
+  "image": "https://e1.b68.dev/images/product_1713735025688.jpg",
+  "category": "men",
+  "new_price": 39,
+  "old_price": 89,
+  "available": true,
+  "date": {
+    "$date": "2024-04-21T21:30:25.766Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6625857b1ede785843be0965"
+  },
+  "id": 27,
+  "name": "Zip-Front Biker Jacket",
+  "image": "https://e1.b68.dev/images/product_1713735035017.jpg",
+  "category": "men",
+  "new_price": 39,
+  "old_price": 89,
+  "available": true,
+  "date": {
+    "$date": "2024-04-21T21:30:35.107Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662585821ede785843be0968"
+  },
+  "id": 28,
+  "name": "Zip-Front Biker Jacket",
+  "image": "https://e1.b68.dev/images/product_1713735042189.jpg",
+  "category": "men",
+  "new_price": 39,
+  "old_price": 89,
+  "available": true,
+  "date": {
+    "$date": "2024-04-21T21:30:42.275Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662587901ede785843be09a1"
+  },
+  "id": 38,
+  "name": "Mandarin Collar Leather Jacket",
+  "image": "https://e1.b68.dev/images/product_1713735568538.jpg",
+  "category": "women",
+  "new_price": 139,
+  "old_price": 149,
+  "available": true,
+  "date": {
+    "$date": "2024-04-21T21:39:28.662Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6625884e1ede785843be09a6"
+  },
+  "id": 39,
+  "name": "Leather Bomber",
+  "image": "https://e1.b68.dev/images/product_1713735757963.avif",
+  "category": "men",
+  "new_price": 89,
+  "old_price": 99,
+  "available": true,
+  "date": {
+    "$date": "2024-04-21T21:42:38.044Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6625885e1ede785843be09ab"
+  },
+  "id": 40,
+  "name": "Leather Bomber",
+  "image": "https://e1.b68.dev/images/product_1713735774016.avif",
+  "category": "men",
+  "new_price": 89,
+  "old_price": 99,
+  "available": true,
+  "date": {
+    "$date": "2024-04-21T21:42:54.099Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662588651ede785843be09ae"
+  },
+  "id": 41,
+  "name": "Leather Bomber",
+  "image": "https://e1.b68.dev/images/product_1713735781271.jpg",
+  "category": "men",
+  "new_price": 89,
+  "old_price": 99,
+  "available": true,
+  "date": {
+    "$date": "2024-04-21T21:43:01.392Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662588da1ede785843be09b3"
+  },
+  "id": 42,
+  "name": "Boys Solid Leather Jacket",
+  "image": "https://e1.b68.dev/images/product_1713735898116.jpg",
+  "category": "kid",
+  "new_price": 129,
+  "old_price": 149,
+  "available": true,
+  "date": {
+    "$date": "2024-04-21T21:44:58.197Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662588eb1ede785843be09b6"
+  },
+  "id": 43,
+  "name": "Boys Solid Leather Jacket",
+  "image": "https://e1.b68.dev/images/product_1713735915454.jpg",
+  "category": "kid",
+  "new_price": 129,
+  "old_price": 149,
+  "available": true,
+  "date": {
+    "$date": "2024-04-21T21:45:15.556Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662588f21ede785843be09b9"
+  },
+  "id": 44,
+  "name": "Boys Solid Leather Jacket",
+  "image": "https://e1.b68.dev/images/product_1713735922644.jpg",
+  "category": "kid",
+  "new_price": 129,
+  "old_price": 149,
+  "available": true,
+  "date": {
+    "$date": "2024-04-21T21:45:22.742Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662589721ede785843be09d2"
+  },
+  "id": 45,
+  "name": "Solid leather jacket",
+  "image": "https://e1.b68.dev/images/product_1713736049918.jpg",
+  "category": "kid",
+  "new_price": 109,
+  "old_price": 129,
+  "available": true,
+  "date": {
+    "$date": "2024-04-21T21:47:30.015Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662589781ede785843be09d5"
+  },
+  "id": 46,
+  "name": "Solid leather jacket",
+  "image": "https://e1.b68.dev/images/product_1713736056648.jpg",
+  "category": "kid",
+  "new_price": 109,
+  "old_price": 129,
+  "available": true,
+  "date": {
+    "$date": "2024-04-21T21:47:36.731Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6625897f1ede785843be09d8"
+  },
+  "id": 47,
+  "name": "Solid leather jacket",
+  "image": "https://e1.b68.dev/images/product_1713736063298.jpg",
+  "category": "kid",
+  "new_price": 109,
+  "old_price": 129,
+  "available": true,
+  "date": {
+    "$date": "2024-04-21T21:47:43.383Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662589851ede785843be09db"
+  },
+  "id": 48,
+  "name": "Solid leather jacket",
+  "image": "https://e1.b68.dev/images/product_1713736069071.jpg",
+  "category": "kid",
+  "new_price": 109,
+  "old_price": 129,
+  "available": true,
+  "date": {
+    "$date": "2024-04-21T21:47:49.163Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6625898e1ede785843be09de"
+  },
+  "id": 49,
+  "name": "Solid leather jacket",
+  "image": "https://e1.b68.dev/images/product_1713736078099.jpg",
+  "category": "kid",
+  "new_price": 109,
+  "old_price": 129,
+  "available": true,
+  "date": {
+    "$date": "2024-04-21T21:47:58.183Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662589961ede785843be09e1"
+  },
+  "id": 50,
+  "name": "Solid leather jacket",
+  "image": "https://e1.b68.dev/images/product_1713736085947.jpg",
+  "category": "kid",
+  "new_price": 109,
+  "old_price": 129,
+  "available": true,
+  "date": {
+    "$date": "2024-04-21T21:48:06.063Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6625899d1ede785843be09e4"
+  },
+  "id": 51,
+  "name": "Solid leather jacket",
+  "image": "https://e1.b68.dev/images/product_1713736093089.jpg",
+  "category": "kid",
+  "new_price": 109,
+  "old_price": 129,
+  "available": true,
+  "date": {
+    "$date": "2024-04-21T21:48:13.178Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662589a41ede785843be09e7"
+  },
+  "id": 52,
+  "name": "Solid leather jacket",
+  "image": "https://e1.b68.dev/images/product_1713736099992.jpg",
+  "category": "kid",
+  "new_price": 109,
+  "old_price": 129,
+  "available": true,
+  "date": {
+    "$date": "2024-04-21T21:48:20.268Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662589db1ede785843be09f3"
+  },
+  "id": 53,
+  "name": "Solid leather jacket",
+  "image": "https://e1.b68.dev/images/product_1713736155294.jpg",
+  "category": "kid",
+  "new_price": 109,
+  "old_price": 129,
+  "available": true,
+  "date": {
+    "$date": "2024-04-21T21:49:15.377Z"
+  },
+  "__v": 0
+}]
